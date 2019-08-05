@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: adab8621468675c4cbef0d39d25a74d1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cylinder001
+    100004: handle
+    100006: lid
+    100008: tea cup
+    100010: tea cup002
+    100012: tea cup003
+    100014: tea cup004
+    100016: tea cup005
+    100018: tea cup2
+    100020: tea Pot
+    100022: teacup handle
+    100024: teacup handle001
+    100026: teacup handle002
+    100028: teacup handle003
+    100030: teacup handle004
+    100032: teacup handle005
+    400000: //RootNode
+    400002: Cylinder001
+    400004: handle
+    400006: lid
+    400008: tea cup
+    400010: tea cup002
+    400012: tea cup003
+    400014: tea cup004
+    400016: tea cup005
+    400018: tea cup2
+    400020: tea Pot
+    400022: teacup handle
+    400024: teacup handle001
+    400026: teacup handle002
+    400028: teacup handle003
+    400030: teacup handle004
+    400032: teacup handle005
+    2100000: Wall Paint
+    2100002: 02 - Default
+    2300000: Cylinder001
+    2300002: handle
+    2300004: lid
+    2300006: tea cup
+    2300008: tea cup002
+    2300010: tea cup003
+    2300012: tea cup004
+    2300014: tea cup005
+    2300016: tea cup2
+    2300018: tea Pot
+    2300020: teacup handle
+    2300022: teacup handle001
+    2300024: teacup handle002
+    2300026: teacup handle003
+    2300028: teacup handle004
+    2300030: teacup handle005
+    3300000: Cylinder001
+    3300002: handle
+    3300004: lid
+    3300006: tea cup
+    3300008: tea cup002
+    3300010: tea cup003
+    3300012: tea cup004
+    3300014: tea cup005
+    3300016: tea cup2
+    3300018: tea Pot
+    3300020: teacup handle
+    3300022: teacup handle001
+    3300024: teacup handle002
+    3300026: teacup handle003
+    3300028: teacup handle004
+    3300030: teacup handle005
+    4300000: tea Pot
+    4300002: lid
+    4300004: handle
+    4300006: tea cup
+    4300008: teacup handle
+    4300010: tea cup2
+    4300012: teacup handle001
+    4300014: tea cup002
+    4300016: teacup handle002
+    4300018: tea cup003
+    4300020: teacup handle003
+    4300022: tea cup004
+    4300024: teacup handle004
+    4300026: tea cup005
+    4300028: teacup handle005
+    4300030: Cylinder001
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

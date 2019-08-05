@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 942a4402ef504fe4ba28d83c55b96dc7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: arm008
+    100002: arm2
+    100004: arm3
+    100006: arm4
+    100008: arm5
+    100010: arm6
+    100012: arm7
+    100014: Box005
+    100016: bulb 5
+    100018: bulb008
+    100020: bulb2
+    100022: bulb3
+    100024: bulb4
+    100026: bulb6
+    100028: bulb7
+    100030: chain004
+    100032: chain005
+    100034: chain1
+    100036: chain2
+    100038: chain3
+    100040: //RootNode
+    100042: light 008
+    100044: light 2
+    100046: light 3
+    100048: light 4
+    100050: light 5
+    100052: light 6
+    100054: light 7
+    100056: Plane001
+    100058: pole
+    400000: arm008
+    400002: arm2
+    400004: arm3
+    400006: arm4
+    400008: arm5
+    400010: arm6
+    400012: arm7
+    400014: Box005
+    400016: bulb 5
+    400018: bulb008
+    400020: bulb2
+    400022: bulb3
+    400024: bulb4
+    400026: bulb6
+    400028: bulb7
+    400030: chain004
+    400032: chain005
+    400034: chain1
+    400036: chain2
+    400038: chain3
+    400040: //RootNode
+    400042: light 008
+    400044: light 2
+    400046: light 3
+    400048: light 4
+    400050: light 5
+    400052: light 6
+    400054: light 7
+    400056: Plane001
+    400058: pole
+    2100000: No Name
+    2100002: 01 - Default
+    2100004: belltop
+    2100006: bell
+    2100008: lampp
+    2100010: lightbulb_
+    2300000: arm008
+    2300002: arm2
+    2300004: arm3
+    2300006: arm4
+    2300008: arm5
+    2300010: arm6
+    2300012: arm7
+    2300014: Box005
+    2300016: bulb 5
+    2300018: bulb008
+    2300020: bulb2
+    2300022: bulb3
+    2300024: bulb4
+    2300026: bulb6
+    2300028: bulb7
+    2300030: chain004
+    2300032: chain005
+    2300034: chain1
+    2300036: chain2
+    2300038: chain3
+    2300040: light 008
+    2300042: light 2
+    2300044: light 3
+    2300046: light 4
+    2300048: light 5
+    2300050: light 6
+    2300052: light 7
+    2300054: Plane001
+    2300056: pole
+    3300000: arm008
+    3300002: arm2
+    3300004: arm3
+    3300006: arm4
+    3300008: arm5
+    3300010: arm6
+    3300012: arm7
+    3300014: Box005
+    3300016: bulb 5
+    3300018: bulb008
+    3300020: bulb2
+    3300022: bulb3
+    3300024: bulb4
+    3300026: bulb6
+    3300028: bulb7
+    3300030: chain004
+    3300032: chain005
+    3300034: chain1
+    3300036: chain2
+    3300038: chain3
+    3300040: light 008
+    3300042: light 2
+    3300044: light 3
+    3300046: light 4
+    3300048: light 5
+    3300050: light 6
+    3300052: light 7
+    3300054: Plane001
+    3300056: pole
+    4300000: Box005
+    4300002: Plane001
+    4300004: pole
+    4300006: chain1
+    4300008: chain2
+    4300010: chain3
+    4300012: chain005
+    4300014: chain004
+    4300016: arm2
+    4300018: light 2
+    4300020: bulb2
+    4300022: arm3
+    4300024: light 3
+    4300026: bulb3
+    4300028: arm4
+    4300030: light 4
+    4300032: bulb4
+    4300034: arm5
+    4300036: light 5
+    4300038: bulb 5
+    4300040: arm7
+    4300042: light 7
+    4300044: bulb7
+    4300046: arm6
+    4300048: light 6
+    4300050: bulb6
+    4300052: arm008
+    4300054: bulb008
+    4300056: light 008
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

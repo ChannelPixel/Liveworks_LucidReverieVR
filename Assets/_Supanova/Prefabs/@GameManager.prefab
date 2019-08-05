@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &90839298759063088
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 90839298759063090}
+  - component: {fileID: 90839298759063089}
+  - component: {fileID: 90839298759063091}
+  - component: {fileID: 6071605847848770996}
+  m_Layer: 0
+  m_Name: '@GameManager'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &90839298759063090
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 90839298759063088}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &90839298759063089
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 90839298759063088}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa59095bf4ae6634e92f59178c4d37ad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Timer: {fileID: 90839298759063091}
+  countdownTimerSeconds: 120
+  endGameWaitSeconds: 5
+  PuzzleManager: {fileID: 0}
+  ChewToy: {fileID: 0}
+  TeaCupTriggers: []
+  PosterTrigger: {fileID: 0}
+  EndGameTeleport: {fileID: 0}
+  Teleport: {fileID: 0}
+  Player: {fileID: 0}
+  GrowPlayer: {fileID: 0}
+  PlayerVitals: {fileID: 0}
+  playerWon: 0
+  LoseSequence: {fileID: 0}
+  WinSequence: {fileID: 0}
+  BunnyClock: {fileID: 0}
+--- !u!114 &90839298759063091
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 90839298759063088}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 230f61bb498ac0f45bde96e5ee03f29d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  countdownValue: 30
+  totalTime: 0
+  warningRatio: 0.5
+  criticalRatio: 0.25
+  countdownState: 0
+  countdownIsPaused: 0
+--- !u!114 &6071605847848770996
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 90839298759063088}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e10d7f2e1f2273e47b725ad60e92f598, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Player: {fileID: 0}
+  winSequenceManager: {fileID: 0}
+  loseSequenceManager: {fileID: 0}
+  ResetScene: 114
+  TriggerWin: 119
+  TriggerLose: 108

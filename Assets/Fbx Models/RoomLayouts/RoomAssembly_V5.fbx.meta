@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 30f165ed54b6c8d4fa78a60abfb162b7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: 'Material #109'
+    2100002: black steel'
+    2100004: 'Material #24'
+    2100006: 'Material #71'
+    2100008: 'Material #27'
+    2100010: 'Material #73'
+    2100012: 'Material #70'
+    2100014: black steel
+    2100016: cushion
+    2100018: dining chair
+    2100020: 'Material #43'
+    2100022: 'Material #42'
+    2100024: Temporary_3
+    2100026: white ceramic
+    2100028: 'Material #69'
+    2100030: cushion 2
+    2100032: 'Material #106'
+    2100034: 'Material #110'
+    2100036: 'Material #243'
+    2100038: big table
+    2100040: 'Material #107'
+    2100042: globe
+    2100044: wood_globe
+    2100046: 'Material #196'
+    2100048: guitar red
+    2100050: 14 - Default
+    2100052: 'Material #30'
+    2100054: 'Material #35'
+    2100056: 'Material #31'
+    2100058: 'Material #32'
+    2100060: 'Material #34'
+    2100062: magazines
+    2100064: magazine belt
+    2100066: Material.003
+    2100068: Material.002
+    2100070: Black
+    2100072: Gold
+    2100074: Wood
+    2100076: 'Material #97'
+    2100078: 'Material #98'
+    2100080: 'Material #93'
+    2100082: 'Material #96'
+    2100084: 'Material #94'
+    2100086: 'Material #100'
+    2100088: 'Material #81'
+    2100090: 'Material #192'
+    2100092: rug_
+    2100094: 'Material #136'
+    2100096: 'Material #129'
+    2100098: 'Material #128'
+    2100100: 'Material #130'
+    2100102: 01 - Default
+    2100104: CERAMIC 1
+    2100106: CERAMIC 2
+    2100108: 21 - Default
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Box012
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
